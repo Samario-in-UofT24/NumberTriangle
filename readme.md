@@ -1,4 +1,5 @@
 # Module 1 Individual Coding Task
+finished
 
 This coding task is based on Problem 18 from Project Euler (https://projecteuler.net/problem=18).
 
@@ -30,4 +31,4 @@ what you are tasked with for this task.
   - ONE closed issue
   - ONE closed PR
   - exactly ONE commit author (other than the course team)
-  - at least TWO commits by you (e.g., make one commit for each file you complete)
+  - at least TWO commits by you (e.g., make one commit for each file you complete) 11
